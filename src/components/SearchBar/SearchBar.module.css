@@ -1,0 +1,23 @@
+.container {
+  width: 50rem;
+  position: relative;
+}
+
+.textbox {
+  border: 1px solid #100f0f;
+  height: 3rem;
+  box-sizing: border-box;
+  padding: 1px 10px;
+  transition: 0.2s ease-in-out;
+  width: 100%;
+}
+
+.sortbutton {
+  margin-top: 10px;
+  border: 1px solid #100f0f;
+  height: 2rem;
+}
+
+
+
+
